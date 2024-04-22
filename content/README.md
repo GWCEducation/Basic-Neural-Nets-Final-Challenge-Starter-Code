@@ -1,4 +1,4 @@
-# [title] Part # Code
+# [title] Part # Code 
 
 This is an example of a [title] project at the end of Part #. Use this code to debug or remix this project and start from Part #+1 of the [title]. By the end of this **part** you should have:
 - Add here
